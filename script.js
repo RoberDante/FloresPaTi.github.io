@@ -14,5 +14,13 @@ document.getElementById('showFlowersButton').addEventListener('click', function(
 });
 
 document.getElementById('flowers').addEventListener('click', function() {
-    alert('Hola Luanita, hoy quiero celebrar nuestra amistad. Que cada flor te recuerde lo especial que eres para mí. ¡Feliz Día de las Flores Amarillas!');
+    alert('Hola luanita, mi querida amiguita.
+
+Hoy quiero celebrar nuestra amistad, tan valiosa y especial para mí. Quiero que sepas que te aprecio mucho. Yo se que no te pude dar un ramo real y perdóname por eso 🙏  más adelante te daré un ramo lleno de muchas flores, así bien grande. Bueno no tanto xq te puede aplastar pero lo importante es q te de un ramo para que cada vez que lo veas me recuerdes :).
+
+Bueno me siento muy afortunado de tenerte como mi amiguita, eres una gran chica. Aunque estemos lejos me encanta poder compartir momentos contigo :]
+
+¡Feliz Día de las Flores Amarillas, mi querida Luanita! Te quiero mucho, amiguita mía ;)
+
+Edit: La página recién cargo :[ así q te lo envío hoy ;) perdóm.');
 });
